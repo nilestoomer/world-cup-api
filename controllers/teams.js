@@ -15,7 +15,7 @@ export const getTeam = async (request, response) => {
         const { id } = request.params;
         const team = await Team.findById(id)
 
-        if (house) {
+        if (team) {
             return response.json(team);
         }
 
