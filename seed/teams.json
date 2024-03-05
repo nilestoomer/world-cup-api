@@ -1,0 +1,41 @@
+[
+    {
+        "winningNation": "Argentina",
+        "finalOpponent": "France",
+        "captain": "Lionel Messi",
+        "manager": "Lionel Sebastián Scaloni",
+        "worldCupYear": "2022",
+        "score": "ARG 3-3 FRA",
+        "highestGoalScorer": "Lionel Messi",
+        "extraTime": true,
+        "wentToPenalties": true,
+        "players": [
+            "GK: Emi Martinez (Aston Villa)",
+            "GK: Franco Armani (River Plate)",
+            "GK: Geronimo Rulli (Villarreal)",
+            "DF: Marcos Acuna (Sevilla)",
+            "DF: Juan Foyth (Villarreal)",
+            "DF: Lisandro Martinez (Manchester United)",
+            "DF: Nicolas Tagliafico (Lyon)",
+            "DF: Cristian Romero (Tottenham)",
+            "DF: Nicolas Otamendi (Benfica)",
+            "DF: Nahuel Molina (Atletico Madrid)",
+            "DF: Gonzalo Montiel (Sevilla)",
+            "DF: German Pezzella (Real Betis)",
+            "MF: Angel Di Maria (Juventus)",
+            "MF: Leandro Paredes (Juventus)",
+            "MF: Rodrigo De Paul (Atletico Madrid)",
+            "MF: Alexis Mac Allister (Brighton)",
+            "MF: Enzo Fernandez (Benfica)",
+            "MF: Exequiel Palacios (Bayer Leverkusen)",
+            "MF: Guido Rodriguez (Real Betis)",
+            "FW: Lionel Messi (PSG)",
+            "FW: Lautaro Martinez (Inter Milan)",
+            "FW: Paulo Dybala (Roma)",
+            "FW: Angel Correa (Atletico Madrid)",
+            "FW: Julian Alvarez (Manchester City)",
+            "FW: Thiago Almada (Atlanta United)",
+            "FW: Alejandro Gomez (Sevilla)"
+        ]
+    }
+]
