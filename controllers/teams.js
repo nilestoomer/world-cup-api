@@ -46,7 +46,7 @@ export const updateTeam = async (request, response) => {
 export const deleteTeam = async (request, response) => {
     try {
         const { id } = request.params;
-        const deleted = await Team.findByIdandDelete(id);
+        const deleted = await Team.findByIdAndDelete(id);
 
         if (deleted) {
             return response.status(200).send("Team deleted!");
