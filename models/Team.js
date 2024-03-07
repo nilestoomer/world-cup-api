@@ -4,8 +4,10 @@ const Schema = mongoose.Schema
 
 let TeamSchema = new Schema({
     "winningNation": { type: String },
+    "nationImg": { type: String },
     "finalOpponent": { type: String },
     "captain": { type: String },
+    "captainImg": { type: String },
     "manager": { type: String },
     "worldCupYear": { type: String },
     "score": { type: String },

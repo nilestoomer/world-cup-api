@@ -1,11 +1,13 @@
 [
     {
         "winningNation": "Argentina",
+        "nationImg": "https://cdn.britannica.com/69/5869-004-7D75CD05/Flag-Argentina.jpg",
         "finalOpponent": "France",
         "captain": "Lionel Messi",
+        "captainImg": "https://media.cnn.com/api/v1/images/stellar/prod/221203200749-lionel-messi-celebrating-argentina-australia-tease.jpg?c=original",
         "manager": "Lionel Sebastián Scaloni",
         "worldCupYear": "2022",
-        "score": "ARG 3-3 FRA",
+        "score": "3-3",
         "highestGoalScorer": "Lionel Messi",
         "extraTime": true,
         "wentToPenalties": true,
@@ -40,8 +42,10 @@
     },
     {
         "winningNation": "Germany",
+        "nationImg": "https://cdn.britannica.com/97/897-050-0BFECDA5/Flag-Germany.jpg?w=400&h=235&c=crop",
         "finalOpponent": "Argentina",
         "captain": "Philipp Lahm",
+        "captainImg": "https://a.espncdn.com/media/motion/ESPNi/2014/0718/int_140718_Philipp_Lahm_bows_out_after_triumph/int_140718_Philipp_Lahm_bows_out_after_triumph.jpg",
         "manager": "Joachim Löw",
         "worldCupYear": "2014",
         "score": "1-0",
@@ -75,8 +79,10 @@
       },
       {
         "winningNation": "Spain",
+        "nationImg": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",
         "finalOpponent": "Netherlands",
         "captain": "Iker Casillas",
+        "captainImg": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt0b4cf09a8dac4647/60db468022d24e38a38940f4/04b77279c900eb6ea735f69d0c10beb2e4dc09d7.jpg?auto=webp&format=pjpg&width=3840&quality=60",
         "manager": "Vicente del Bosque",
         "worldCupYear": "2010",
         "score": "1-0",
@@ -109,8 +115,10 @@
       },
       {
         "winningNation": "Italy",
+        "nationImg": "https://heritage-flag.com/cdn/shop/products/italy-flag_grande.jpg?v=1418057957",
         "finalOpponent": "France",
         "captain": "Fabio Cannavaro",
+        "captainImg": "https://m.media-amazon.com/images/M/MV5BNGNlMmU1ZTEtYzNhZi00NDhjLWJlMDMtOGEwM2VkYTA4ZWQyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
         "manager": "Marcello Lippi",
         "worldCupYear": "2006",
         "score": "1-1 (5-3 penalties)",
@@ -145,8 +153,10 @@
       },
       {
         "winningNation": "Brazil",
+        "nationImg": "https://cdn.britannica.com/47/6847-004-7D668BB0/Flag-Brazil.jpg",
         "finalOpponent": "Germany",
         "captain": "Cafu",
+        "captainImg": "https://m.media-amazon.com/images/M/MV5BMDNlMzBhYjMtY2UzOC00NTQ4LWJlNWQtYjMyZTQ1ZGQxYTk1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
         "manager": "Luiz Felipe Scolari",
         "worldCupYear": "2002",
         "score": "2-0",
@@ -180,8 +190,10 @@
       },
       {
         "winningNation": "France",
+        "nationImg": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png",
         "finalOpponent": "Brazil",
         "captain": "Didier Deschamps",
+        "captainImg": "https://www.telegraph.co.uk/content/dam/world-cup/2018/07/13/TELEMMGLPICT000001152414_trans_NvBQzQNjv4BquiIXdENAMkKn7_B615YUBxJzb2sWhzoGbECpoRXnCOg.jpeg",
         "manager": "Aimé Jacquet",
         "worldCupYear": "1998",
         "score": "3-0",
@@ -215,8 +227,10 @@
       },
       {
         "winningNation": "Brazil",
+        "nationImg": "https://cdn.britannica.com/47/6847-004-7D668BB0/Flag-Brazil.jpg",
         "finalOpponent": "Italy",
         "captain": "Dunga",
+        "captainImg": "https://pbs.twimg.com/media/ElpFDRCW0AEatUC.jpg",
         "manager": "Carlos Alberto Parreira",
         "worldCupYear": "1994",
         "score": "0-0 (3-2 penalties)",
@@ -250,8 +264,10 @@
       },
       {
         "winningNation": "West Germany",
+        "nationImg": "https://cdn.britannica.com/82/65482-050-E43AB312/Flag-detail-Germany-crest.jpg",
         "finalOpponent": "Argentina",
         "captain": "Lothar Matthäus",
+        "captainImg": "https://img.bundesliga.com/tachyon/sites/2/2019/03/matthaus-world-cup.jpg?crop=507px,0px,5511px,4409px",
         "manager": "Franz Beckenbauer",
         "worldCupYear": "1990",
         "score": "1-0",
@@ -285,8 +301,10 @@
       },
       {
         "winningNation": "Argentina",
+        "nationImg": "https://cdn.britannica.com/69/5869-004-7D75CD05/Flag-Argentina.jpg",
         "finalOpponent": "West Germany",
         "captain": "Diego Maradona",
+        "captainImg": "https://www.thenation.com/wp-content/uploads/2020/11/diego-maradona-gt-img.jpg",
         "manager": "Carlos Bilardo",
         "worldCupYear": "1986",
         "score": "3-2",
@@ -320,8 +338,10 @@
       },
       {
         "winningNation": "Italy",
+        "nationImg": "https://heritage-flag.com/cdn/shop/products/italy-flag_grande.jpg?v=1418057957",
         "finalOpponent": "West Germany",
         "captain": "Dino Zoff",
+        "captainImg": "https://pbs.twimg.com/media/B-njoSfUsAAaST2.jpg",
         "manager": "Enzo Bearzot",
         "worldCupYear": "1982",
         "score": "3-1",
@@ -355,8 +375,10 @@
       },
       {
         "winningNation": "Argentina",
+        "nationImg": "https://cdn.britannica.com/69/5869-004-7D75CD05/Flag-Argentina.jpg",
         "finalOpponent": "Netherlands",
         "captain": "Daniel Passarella",
+        "captainImg": "https://i0.wp.com/thesefootballtimes.co/wp-content/uploads/2017/03/valdano.jpg?resize=2048%2C1430&ssl=1",
         "manager": "César Luis Menotti",
         "worldCupYear": "1978",
         "score": "3-1 (after extra time)",
@@ -390,8 +412,10 @@
       },
       {
         "winningNation": "West Germany",
+        "nationImg": "https://cdn.britannica.com/82/65482-050-E43AB312/Flag-detail-Germany-crest.jpg",
         "finalOpponent": "Netherlands",
         "captain": "Franz Beckenbauer",
+        "captainImg": "https://img.fcbayern.com/image/upload/t_cms-1x1-seo-thumbnail/v1601369471/cms/public/images/fcbayern-com/media/images/homepage/offizielle/beckenbauer/beckenbauer_ima_1974.jpg",
         "manager": "Helmut Schön",
         "worldCupYear": "1974",
         "score": "2-1",
@@ -425,8 +449,10 @@
       },
       {
         "winningNation": "Brazil",
+        "nationImg": "https://cdn.britannica.com/47/6847-004-7D668BB0/Flag-Brazil.jpg",
         "finalOpponent": "Italy",
         "captain": "Carlos Alberto Torres",
+        "captainImg": "https://i.guim.co.uk/img/media/3eb003c0beed3f1d3d2fc7a64bf4e4cbaceb7328/0_58_3102_1862/master/3102.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=62dabb66427d67519779749096553345",
         "manager": "Mário Zagallo",
         "worldCupYear": "1970",
         "score": "4-1",
@@ -457,8 +483,10 @@
       },
       {
         "winningNation": "England",
+        "nationImg": "https://cdn.britannica.com/44/344-004-494CC2E8/Flag-England.jpg",
         "finalOpponent": "West Germany",
         "captain": "Bobby Moore",
+        "captainImg": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprodmigration%2Fweb%2Fbin%2Fb2bf2fc6-7994-3ac9-8f02-ea73bfc2bb5d.jpg?crop=380%2C570%2C0%2C0",
         "manager": "Sir Alf Ramsey",
         "worldCupYear": "1966",
         "score": "4-2 (after extra time)",
@@ -492,8 +520,10 @@
       },
       {
         "winningNation": "Brazil",
+        "nationImg": "https://cdn.britannica.com/47/6847-004-7D668BB0/Flag-Brazil.jpg",
         "finalOpponent": "Czechoslovakia",
         "captain": "Mauro Ramos",
+        "captainImg": "https://i.pinimg.com/originals/46/42/cb/4642cb4c952cf366d25ba14d789eb8ab.png",
         "manager": "Aymoré Moreira",
         "worldCupYear": "1962",
         "score": "3-1",
@@ -526,8 +556,10 @@
       },
       {
         "winningNation": "Brazil",
+        "nationImg": "https://cdn.britannica.com/47/6847-004-7D668BB0/Flag-Brazil.jpg",
         "finalOpponent": "Sweden",
         "captain": "Hilderaldo Bellini",
+        "captainImg": "https://pbs.twimg.com/media/DfeO5gnXUAAYTIg.jpg",
         "manager": "Vicente Feola",
         "worldCupYear": "1958",
         "score": "5-2",
@@ -560,8 +592,10 @@
       },
       {
         "winningNation": "West Germany",
+        "nationImg": "https://cdn.britannica.com/82/65482-050-E43AB312/Flag-detail-Germany-crest.jpg",
         "finalOpponent": "Hungary",
         "captain": "Fritz Walter",
+        "captainImg": "https://static.dw.com/image/578961_4.jpg",
         "manager": "Sepp Herberger",
         "worldCupYear": "1954",
         "score": "3-2",
@@ -599,8 +633,10 @@
       },
       {
         "winningNation": "Uruguay",
+        "nationImg": "https://cdn.britannica.com/74/4874-050-0A8DA452/Flag-Uruguay.jpg",
         "finalOpponent": "Brazil",
         "captain": "Obdulio Varela",
+        "captainImg": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Obdulio_varela_uruguay.jpg",
         "manager": "Juan López",
         "worldCupYear": "1950",
         "score": "2-1",
@@ -633,8 +669,10 @@
       },
       {
         "winningNation": "Italy",
+        "nationImg": "https://heritage-flag.com/cdn/shop/products/italy-flag_grande.jpg?v=1418057957",
         "finalOpponent": "Hungary",
         "captain": "Giuseppe Meazza",
+        "captainImg": "https://www.theneweuropean.co.uk/wp-content/uploads/sites/2/2021/08/GM-GEL-e1629284919103.jpeg",
         "manager": "Vittorio Pozzo",
         "worldCupYear": "1938",
         "score": "4-2",
@@ -667,8 +705,10 @@
       },
       {
         "winningNation": "Italy",
+        "nationImg": "https://heritage-flag.com/cdn/shop/products/italy-flag_grande.jpg?v=1418057957",
         "finalOpponent": "Czechoslovakia",
         "captain": "Gianpiero Combi",
+        "captainImg": "https://d2a3o6pzho379u.cloudfront.net/26027.jpg",
         "manager": "Vittorio Pozzo",
         "worldCupYear": "1934",
         "score": "2-1",
@@ -701,8 +741,10 @@
       },
       {
         "winningNation": "Uruguay",
+        "nationImg": "https://cdn.britannica.com/74/4874-050-0A8DA452/Flag-Uruguay.jpg",
         "finalOpponent": "Argentina",
         "captain": "José Nasazzi",
+        "captainImg": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jose_nasazzi_urug.jpg",
         "manager": "Alberto Suppici",
         "worldCupYear": "1930",
         "score": "4-2",
@@ -736,5 +778,5 @@
           "Pedro Cea",
           "Pedro Petrone"
         ]
-      }                                                                                    
+      }                                                                            
 ]
