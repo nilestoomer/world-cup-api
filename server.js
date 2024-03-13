@@ -6,7 +6,7 @@ import logger from "morgan";
 import chalk from "chalk";
 
 const app = express();
-const PORT = proccess.env.PORT || 3017;
+const PORT = process.env.PORT || 3017;
 
 app.use(express.json());
 app.use(cors());
